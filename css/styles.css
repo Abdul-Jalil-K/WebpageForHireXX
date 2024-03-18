@@ -95,9 +95,6 @@
 
 /* ELEMENTS */
 
-/* img {
-} */
-
 
 
 header h1 {
@@ -112,6 +109,19 @@ h4 {
     font-family: 'Times New Roman', Times, serif;
 }
 
+/* MEDIA QUERY */
+
+@media (max-width: 760px) {
+
+    .profile {
+        width: 50%;
+    }
+
+    .resume-svg {
+        width: 100%;
+        height: 25rem;
+    }
+}
 
 
 
