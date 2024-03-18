@@ -1,0 +1,133 @@
+/* IDs */
+#introduction {
+ color: white;   
+}
+
+
+#introduction p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+
+
+
+#resume {
+    text-align: center;
+    background-color: lavender;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pricing {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#footer {
+    margin-bottom: 0;
+    padding-bottom: 11px;
+}
+
+#footer a {
+    text-decoration: none;
+    color: black;
+}
+
+/* ClASSES  */
+
+.gradient-background {
+    background: linear-gradient(300deg, lavender, indigo, lightblue );
+    background-size: 180% 180%;
+    animation: gradient-animation 10s ease infinite;
+}
+
+.theme-button {
+    text-align: center;
+}
+
+
+
+.name {
+    font-family: "Felipa", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.profile {
+    border-radius: 50%;
+}
+
+
+
+.summary {
+    text-align: center;
+    width: 50%;
+    margin: 4px auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+
+.svg {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
+.feature-description {
+    font-size: 1.05rem
+}
+
+.contact-svg {
+    margin-right: 5px;
+}
+
+.showcase-intro, .showcase-link {
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+
+
+/* ELEMENTS */
+
+/* img {
+} */
+
+
+
+header h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header p {
+   font-family: 'Times New Roman', Times, serif;
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+/* COLOR CHANGE BUTTON */
+
+.white {
+    color: white !important;
+}
+
+.dark {
+    background-color: #1d2a35 !important;
+    color: white !important;
+}
+
+
+.grey {
+    background-color: darkgrey !important;
+}
